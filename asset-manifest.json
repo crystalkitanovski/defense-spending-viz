@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/defense-spending-viz/static/css/main.98d98d5f.css",
-    "main.js": "/defense-spending-viz/static/js/main.559cfa8a.js",
+    "main.css": "/defense-spending-viz/static/css/main.aeaa2282.css",
+    "main.js": "/defense-spending-viz/static/js/main.2a7ebd6b.js",
     "index.html": "/defense-spending-viz/index.html",
-    "main.98d98d5f.css.map": "/defense-spending-viz/static/css/main.98d98d5f.css.map",
-    "main.559cfa8a.js.map": "/defense-spending-viz/static/js/main.559cfa8a.js.map"
+    "main.aeaa2282.css.map": "/defense-spending-viz/static/css/main.aeaa2282.css.map",
+    "main.2a7ebd6b.js.map": "/defense-spending-viz/static/js/main.2a7ebd6b.js.map"
   },
   "entrypoints": [
-    "static/css/main.98d98d5f.css",
-    "static/js/main.559cfa8a.js"
+    "static/css/main.aeaa2282.css",
+    "static/js/main.2a7ebd6b.js"
   ]
 }
